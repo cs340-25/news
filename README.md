@@ -24,7 +24,7 @@
 # Syllabus for "Software Engineering"
 
 * **Course:** [COSCS-340]
-* ** MWF  8:10-9:25 MK404, Online Zoom bridge 276-644-8345 **
+* ** TuTh  8:10-9:25 MK404, Online Zoom bridge 276-644-8345 **
 * **Instructor:** Audris Mockus,
   [audris@utk.edu](mailto:audris@utk.edu) office hours - on request
 * **TAs:** Manan Patel, office hours - TBD

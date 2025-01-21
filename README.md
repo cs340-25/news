@@ -18,7 +18,7 @@
 
 # Lecture [recordings/Zoom]()
 
-   - Zoom bridge https://tennessee.zoom.us/j/
+   - Zoom bridge TBD https://tennessee.zoom.us/j/
 
 
 # Syllabus for "Software Engineering"
@@ -27,7 +27,7 @@
 * ** MWF  8:10-9:25 MK404, Online Zoom bridge 276-644-8345 **
 * **Instructor:** Audris Mockus,
   [audris@utk.edu](mailto:audris@utk.edu) office hours - on request
-* **TAs:** TBD office hours - on request
+* **TAs:** Manan Patel, office hours - TBD
 * **Need help?**
 
 Simple rules: 

@@ -9,7 +9,7 @@
         - Start by [**forking** the students repository](https://github.com/cs340-25/students)
 1. [**Clone**][ref-clone] the repository to your computer (git clone https://github.com/yourGHid/students)
 1. Introduce yourself via a netid.md file (do not create netid.md, but replace netid by your own netid in all lowercase). Please provide at least 
-one sentence on your background and one sentence on your interests. For example,
+one sentence on your background and one sentence on your interests. Please make sure it makes it clear what kind of class project you would like to participate in. For example,
 
 ```
 netid: audris

@@ -1,19 +1,19 @@
-# Class 4
+# Class 4 (Jan 30)
   * Present teasers
      - Each teaser will be briefly presented, if anyone want to join, please speak out
      - After each teaser is presented I will ask anyone without the project team to speak out
      - I will create a gh team for each project and assign the first listed participant to add the remaining team members 
 
-# Class 3
+# Class 3 (Jan 28)
   * [Class project](https://github.com/cs340-25/lectures/blob/master/project_intro.pdf)
   * Present teasers Please add your teaser here: https://github.com/cs340-25/teasers 
 
-# Class 2 (Jan 29)
+# Class 2 (Jan 23)
   * Do the [second task](https://github.com/cs340-25/news/blob/master/Preliminary.md)
   * Read the [lecture notes on git](https://github.com/cs340-25/lectures/blob/master/version_control.pdf)
   * What is [software engineering?](https://github.com/cs340-25/lectures/blob/master/introduction.pdf)
   
-# Class 1 (Jan 22)
+# Class 1 (Jan 21)
   * Do the [first task](https://github.com/cs340-25/news/blob/master/Preliminary.md)
 
 # Lecture [recordings/Zoom]()
@@ -24,10 +24,10 @@
 # Syllabus for "Software Engineering"
 
 * **Course:** [COSCS-340]
-* ** TuTh  8:10-9:25 MK404, Online Zoom bridge 276-644-8345 **
+* ** TuTh  8:10-9:25 MK404, Online Zoom bridge https://tennessee.zoom.us/j/84879737349 **
 * **Instructor:** Audris Mockus,
   [audris@utk.edu](mailto:audris@utk.edu) office hours - on request
-* **TAs:** Manan Patel, office hours - TBD
+* **TAs:** Manan Patel, mpatel65@vols.utk.edu, office hours - TBD
 * **Need help?**
 
 Simple rules: 

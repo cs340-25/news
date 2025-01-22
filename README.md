@@ -16,10 +16,9 @@
 # Class 1 (Jan 21)
   * Do the [first task](https://github.com/cs340-25/news/blob/master/Preliminary.md)
 
-# Lecture [recordings/Zoom]()
+# Lecture [recordings/Zoom](https://drive.google.com/drive/folders/1j9MJACoORg95uyqk4VF5QUdd3ZTENQw_?usp=sharing)
 
-   - Zoom bridge TBD https://tennessee.zoom.us/j/
-
+   - Zoom bridge https://tennessee.zoom.us/j/84879737349
 
 # Syllabus for "Software Engineering"
 

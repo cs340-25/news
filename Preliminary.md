@@ -1,7 +1,7 @@
 # Students and Teams
 
 
-## Due Jan 26: Github Pull Request
+## Due Jan 23: Github Pull Request
 
 1. Sign up for [GitHub](https://github.com/) if not already signed
      up. Pick default (free plan).
@@ -35,7 +35,7 @@ to ask a question – just mention `@audris` with the question to make
 sure we will know to look at it sooner.
 
 
-## Due Jan 29: Github Milestone, open an issue, and assign it to yourself
+## Due Jan 28: Github Milestone, open an issue, and assign it to yourself
 
 The milestone should be for the repo cs340-25/test
 and named netid_git, with a deadline for February 1st.

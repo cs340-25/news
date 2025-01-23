@@ -9,8 +9,8 @@
   * Present teasers Please add your teaser here: https://github.com/cs340-25/teasers 
 
 # Class 2 (Jan 23)
+  - Do Task 1 if you have not done it yet! Only 30 out of 64 complete
   - Accept GH invite to class group
-  - Do Task 1 if you have not done it yet!
   - Fix merge conflicts if your PR was not accepted
   * Do the [second task](https://github.com/cs340-25/news/blob/master/Preliminary.md)
   * Read the [lecture notes on git](https://github.com/cs340-25/lectures/blob/master/version_control.pdf)

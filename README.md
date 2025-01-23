@@ -26,7 +26,7 @@
 * ** TuTh  8:10-9:25 MK404, Online Zoom bridge https://tennessee.zoom.us/j/84879737349 **
 * **Instructor:** Audris Mockus,
   [audris@utk.edu](mailto:audris@utk.edu) office hours - on request
-* **TAs:** Manan Patel, mpatel65@vols.utk.edu, office hours - TBD
+* **TAs:** [Shrestha, Shayana <sshres25@vols.utk.edu>](sshres25@vols.utk.edu), office hours - TBD
 * **Need help?**
 
 Simple rules: 

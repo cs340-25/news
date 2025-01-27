@@ -46,3 +46,5 @@ Explain the differences among github fork, git clone, and git branch
 
 Commit the result (the narrative explaining the differences)
 in the test repo under your UTK netid.md.
+
+Please submit the URL of the milestone/netid.md in Canvas - [Assignment 2](https://utk.instructure.com/courses/218221/assignments/2229677).

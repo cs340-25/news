@@ -38,7 +38,7 @@ sure we will know to look at it sooner.
 ## Task 2: Due Jan 28: Github Milestone, open an issue, and assign it to yourself
 
 The milestone should be for the repo cs340-25/test
-and named netid_git, with a deadline for February 1st.
+and named netid_git, with a deadline for January 28.
 
 The issue should ask:
 

@@ -30,7 +30,7 @@
 * **Instructor:** Audris Mockus,
   [audris@utk.edu](mailto:audris@utk.edu) office hours - on request
 * **TAs:** [Shrestha, Shayana <sshres25@vols.utk.edu>](sshres25@vols.utk.edu), office hours - TBD
-* **Discord:** https://discord.com/channels/1334962235390558289/1334962331041402951
+* **Discord:** https://discord.gg/ktwFWaND
 * **Need help?**
 
 Simple rules: 

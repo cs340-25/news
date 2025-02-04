@@ -1,3 +1,12 @@
+# Class 9 (Feb 13)
+   * Proposal is due
+   * Create initial three sprints
+# Class 8 (Feb 11)
+  * Open source contribution
+    
+# Class 7 (Feb 6)
+  * Architecture
+    
 # Class 5 (Feb 4)
   * Finalize teams
   * [Class project](https://github.com/cs340-25/lectures/blob/master/project_proposal.pdf)

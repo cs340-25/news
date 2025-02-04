@@ -1,4 +1,4 @@
-# Class 5 (Frb 4)
+# Class 5 (Feb 4)
   * Finalize teams
   * [Class project](https://github.com/cs340-25/lectures/blob/master/project_proposal.pdf)
 

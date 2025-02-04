@@ -1,3 +1,8 @@
+# Class 5 (Frb 4)
+  * Finalize teams
+  * STILL no PR: edietri2
+  * [Class project](https://github.com/cs340-25/lectures/blob/master/project_proposal.pdf)
+
 # Class 4 (Jan 30)
   * Present teasers
      - Each teaser will be briefly presented, if anyone want to join, please speak out

@@ -5,6 +5,7 @@
   * Open source contribution
     
 # Class 7 (Feb 6)
+  * Still no project for: christopher ramos medina, holden roaten, jacob miller, joseph kolly, keller mason, robert prest, sarvvesh vinodkumar
   * Architecture
     
 # Class 5 (Feb 4)

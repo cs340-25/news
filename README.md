@@ -5,7 +5,7 @@
   * Open source contribution
     
 # Class 7 (Feb 6)
-  * Still no project for: holden roaten, jacob miller, joseph kolly, keller mason, robert prest
+  * Still no project for: holden roaten, keller mason 
   * Architecture
     
 # Class 5 (Feb 4)

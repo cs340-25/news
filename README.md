@@ -1,11 +1,15 @@
+# Class 10, 11 (Feb 18-20)
+   * work on the first sprint (no leacture)
+     
 # Class 9 (Feb 13)
    * Proposal is due
    * Create initial three sprints
+
 # Class 8 (Feb 11)
   * Open source contribution
+  * Still no project for: holden roaten, keller mason
     
-# Class 7 (Feb 6)
-  * Still no project for: holden roaten, keller mason 
+# Class 7 (Feb 6) 
   * Architecture
     
 # Class 5 (Feb 4)

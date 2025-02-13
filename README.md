@@ -174,7 +174,7 @@ at the end of the semester, but for the most part, teammates will receive the sa
 ## Late Submission Policy:
 - Students have up to 3 days after the submission deadline to submit their assignments without penalty.
 - After 3 days, a 10% deduction from the total assignment grade will be applied per day (10% on Day 1 after deadline, 20% on Day 2 after deadline, ....).
-- Submissions more than 10 days late (if there's a hard deadline) will not be accepted.
+- Submissions more than 10 days late will not be accepted.
 - Exceptions may be granted if a valid reason is provided to the TA or professor before the deadline or as soon as possible.
 
 ## Other considerations

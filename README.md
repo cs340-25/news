@@ -171,6 +171,11 @@ Each student in the group should have a role and be able to explain their indivi
 to the project. We will take into account student feedback on the project and on their teammates
 at the end of the semester, but for the most part, teammates will receive the same project grades.
 
+## Late Submission Policy:
+- Students have up to 3 days after the submission deadline to submit their assignments without penalty.
+- After 3 days, a 10% deduction from the total assignment grade will be applied per day.
+- Submissions more than X days late (if there's a hard deadline) will not be accepted.
+- Exceptions may be granted if a valid reason is provided to the TA or professor before the deadline or as soon as possible.
 
 ## Other considerations
 

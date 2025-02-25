@@ -1,3 +1,11 @@
+# Class 13 (Feb 27)
+  * Work on project, no lecture
+
+# Class 12 (Feb 26)
+  * Validation and verification
+  * Scrum
+  * OSS
+
 # Class 10, 11 (Feb 18-20)
    * work on the first sprint (no leacture)
      

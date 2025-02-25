@@ -1,5 +1,5 @@
-# Class 13 (Feb 27)
-  * Work on project, no lecture
+# Class 13, 14 (Feb 27, March 4)
+  * Work on project, OSS no lecture
 
 # Class 12 (Feb 26)
   * Validation and verification

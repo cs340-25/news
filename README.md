@@ -1,3 +1,6 @@
+# March 6
+  - Git and GitHub refresher
+
 # Class 13, 14 (Feb 27, March 4)
   * Work on project, OSS no lecture
 

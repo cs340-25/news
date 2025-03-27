@@ -1,8 +1,26 @@
 # Note
   - Issues that are set tp "ready to review" in OSS may show past due for past sprints, please ignore that, once you set it to "ready to review" you are done with it!
 
-# Apr 1, 3
-  - Scrum
+# Apr 3: Proof of concept demos (5m deom+2m questions)
+  - Riffle
+  - Notex
+  - CorrugatedPaper
+  - Travel_Companion
+  - LeeterBoard
+  - PhishGuard
+  - Rush
+  - Pomo-Pulse
+
+# Apr 1: Proof of concept demos (5m deom+2m questions)
+  - Haggle
+  - Nations-Refounded
+  - Skull-Scan
+  - Track-Tales
+  - CipherGPT
+  - TheQuill
+  - Jukeboxd
+  - Tavern
+  - InstaSched
 
 # March 27
   - Describe OSS project due

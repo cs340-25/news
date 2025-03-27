@@ -1,8 +1,12 @@
 # Note
   - Issues that are set tp "ready to review" in OSS may show past due for past sprints, please ignore that, once you set it to "ready to review" you are done with it!
 
+# Apr 1, 3
+  - Scrum
+
 # March 27
   - Describe OSS project due
+  - Scrum
 
 # March 25
   - Scrum

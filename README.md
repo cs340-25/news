@@ -1,7 +1,7 @@
 # Note
   - Issues that are set tp "ready to review" in OSS may show past due for past sprints, please ignore that, once you set it to "ready to review" you are done with it!
 
-# Apr 3: Proof of concept demos (5m deom+2m questions)
+# Apr 3: Proof of concept demos (5m demo+2m questions)
   - Riffle
   - Notex
   - CorrugatedPaper
@@ -12,7 +12,7 @@
   - Pomo-Pulse
   - Track-Tales
 
-# Apr 1: Proof of concept demos (5m deom+2m questions)
+# Apr 1: Proof of concept demos (5m demo+2m questions)
   - Haggle
   - Nations-Refounded
   - Skull-Scan

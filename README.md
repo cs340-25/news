@@ -10,12 +10,12 @@
   - PhishGuard
   - Rush
   - Pomo-Pulse
+  - Track-Tales
 
 # Apr 1: Proof of concept demos (5m deom+2m questions)
   - Haggle
   - Nations-Refounded
   - Skull-Scan
-  - Track-Tales
   - CipherGPT
   - TheQuill
   - Jukeboxd

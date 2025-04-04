@@ -1,5 +1,19 @@
 # Note
-  - Issues that are set tp "ready to review" in OSS may show past due for past sprints, please ignore that, once you set it to "ready to review" you are done with it!
+  - Issues that are set to "ready to review" in OSS may show past due for past sprints, please ignore that, once you set it to "ready to review" you are done with it!
+
+
+# Final report due on May 8
+   - [Full requirements are in the lectures folder](https://github.com/cs340-25/lectures/blob/master/project_final_report.pdf)
+      - mention if/how you used major quality improvement techniques, namely static analysis, testing and code reviews in your project\
+      - make sure your presentation (if not an md file) is uploaded to you project repo
+
+# Apr 24, 29; May 1, 6
+   - Presentation on class research projects, [please schedule](https://github.com/cs340-25/news/issues/1)
+
+# Apr 10
+
+# Apr 8
+  - What goes into [final report](https://github.com/cs340-25/lectures/blob/main/project_final_report.pdf)
 
 # Apr 3: Proof of concept demos (5m demo+2m questions)
   - Riffle

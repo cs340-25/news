@@ -7,8 +7,14 @@
       - mention if/how you used major quality improvement techniques, namely static analysis, testing and code reviews in your project\
       - make sure your presentation (if not an md file) is uploaded to you project repo
 
-# Apr 24, 29; May 1, 6
+# May 6
+   - SkullScan
+
+# Apr 29; May 1
    - Presentation on class research projects, [please schedule](https://github.com/cs340-25/news/issues/1)
+
+# Apr 24
+   - Track Tales
 
 # Apr 10
 

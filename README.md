@@ -16,7 +16,8 @@
 # Apr 24
    - Track Tales
 
-# Apr 10
+# Apr 10, 15, 22
+  - Finish class projects 
 
 # Apr 8
   - What goes into [final report](https://github.com/cs340-25/lectures/blob/main/project_final_report.pdf)

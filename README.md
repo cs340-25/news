@@ -6,12 +6,20 @@
    - [Full requirements are in the lectures folder](https://github.com/cs340-25/lectures/blob/master/project_final_report.pdf)
       - mention if/how you used major quality improvement techniques, namely static analysis, testing and code reviews in your project\
       - make sure your presentation (if not an md file) is uploaded to you project repo
+   - Presentation on class research projects, [please schedule](https://github.com/cs340-25/news/issues/1)
 
 # May 6
    - SkullScan
+   - CipherGPT
+   - PhishGuard
 
-# Apr 29; May 1
-   - Presentation on class research projects, [please schedule](https://github.com/cs340-25/news/issues/1)
+# May 1
+   -  Greatreads
+   -  Corrugated Paper
+
+# Apr 29   
+   - Riffle
+   - LeeterBoard
 
 # Apr 24
    - Track Tales

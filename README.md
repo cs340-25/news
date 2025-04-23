@@ -8,7 +8,7 @@
       - make sure your presentation (if not an md file) is uploaded to you project repo
    - Presentation on class research projects, [please schedule](https://github.com/cs340-25/news/issues/1)
 
-# May 6 - schedule full 10m presentation
+# May 6 - schedule full - 10m presentation
    - SkullScan
    - CipherGPT
    - PhishGuard
@@ -21,11 +21,14 @@
    -  Corrugated Paper
    -  InstaSched
    -  Travel_Companion
+   -  Potentially: Haggle
+   -  Potentially: Nations-Refounded
 
 # Apr 29 - 3 slots left  
    - Riffle
    - LeeterBoard
    - Jukebox'd
+   - Potentially: The Quill
 
 # Apr 24 - 5 slots left
    - Track Tales

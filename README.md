@@ -16,13 +16,13 @@
    - Notex
    - Tavern
 
-# May 1 - 2 slots left
+# May 1 - 1 slot left
    -  Greatreads
    -  Corrugated Paper
    -  InstaSched
    -  Travel_Companion
+   -  Nations-Refounded
    -  Potentially: Haggle
-   -  Potentially: Nations-Refounded
 
 # Apr 29 - 3 slots left  
    - Riffle

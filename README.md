@@ -22,13 +22,13 @@
    -  InstaSched
    -  Travel_Companion
    -  Nations-Refounded
-   -  Potentially: Haggle or The Quill
-
+   -  Potentially: Haggle
+     
 # Apr 29 - 3 slots left - up to 15m presentation 
    - Riffle
    - LeeterBoard
    - Jukebox'd
-   - Potentially: Haggle or The Quill
+   - Potentially: Haggle
 
 # Apr 24 - 5 slots left - up to 30m presentation
    - Track Tales 

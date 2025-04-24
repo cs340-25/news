@@ -16,19 +16,18 @@
    - Notex
    - Tavern
 
-# May 1 - 1 slot left - up to 10m presentation
+# May 1 - 1 slot left - up to 11m presentation
    -  Greatreads
    -  Corrugated Paper
    -  InstaSched
    -  Travel_Companion
    -  Nations-Refounded
-   -  Potentially: Haggle
      
-# Apr 29 - 3 slots left - up to 15m presentation 
+# Apr 29 - 3 slots left - up to 17m presentation 
    - Riffle
    - LeeterBoard
    - Jukebox'd
-   - Potentially: Haggle
+   - Haggle
 
 # Apr 24 - 5 slots left - up to 30m presentation
    - Track Tales 

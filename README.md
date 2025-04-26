@@ -23,11 +23,12 @@
    -  Travel_Companion
    -  Nations-Refounded
      
-# Apr 29 - 3 slots left - up to 17m presentation 
+# Apr 29 - 2 slots left - up to 13m presentation 
    - Riffle
    - LeeterBoard
    - Jukebox'd
    - Haggle
+   - Pomo-Pulse
 
 # Apr 24 - 5 slots left - up to 30m presentation
    - Track Tales 
